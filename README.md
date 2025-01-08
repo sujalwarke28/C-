@@ -1,2 +1,1 @@
-# C-
-My C++ days
+c++ lectures - From college to Github repo
